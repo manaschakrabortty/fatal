@@ -32,10 +32,10 @@ How It Works 🤔
 
 
 Created with Tkinter:
-    >Frames to organize sections.
-    >Entry, Labels, and Buttons for input/output and actions.
-    >Scales to visually represent amounts.
-    >Key Functions:
+          >Frames to organize sections.
+          >Entry, Labels, and Buttons for input/output and actions.
+          >Scales to visually represent amounts.
+          >Key Functions:
 
   value_converted(): Fetches the exchange rate and calculates the converted value.
   reset_all(): Resets all inputs and outputs.
@@ -46,8 +46,8 @@ Created with Tkinter:
 How to Run ▶️
 Copy the code into a Python file, e.g., currency_converter.py.
 
-   Run the file:
-     python currency_converter.py
+         Run the file:
+           python currency_converter.py
 
 Use the GUI to perform real-time currency conversions.
 
