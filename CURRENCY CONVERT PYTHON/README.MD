@@ -1,13 +1,15 @@
 
 #Currency Converter in Python 🏦💱
-This project is a real-time currency converter built using Python with Tkinter for GUI, Requests for fetching data, and BeautifulSoup for web scraping.
+
+   This project is a real-time currency converter built using Python with Tkinter for GUI, Requests for fetching data, and BeautifulSoup for web scraping.
 
 Features ✨
-   Simple User Interface with intuitive design.
-   Supports popular currencies like USD, INR, EUR, and more.
-   Real-time currency conversion using exchange rates fetched online.
-   Reset and Exit functionalities for convenience.
-   Displays current date automatically.
+      Simple User Interface with intuitive design.
+      Supports popular currencies like USD, INR, EUR, and more.
+      Real-time currency conversion using exchange rates fetched online.
+      Reset and Exit functionalities for convenience.
+      Displays current date automatically.
+
 Prerequisites 🛠️
   Make sure you have the following libraries installed:
 
