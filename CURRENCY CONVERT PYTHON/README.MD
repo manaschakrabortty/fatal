@@ -1,3 +1,5 @@
+Currency Converter 💱 | Real-Time Conversion 🌍 | Python Tkinter GUI 🖥️ | Easy to Use 🚀 | Reset & Exit 🔄❌ | Live Rates 📈 | Multi-Currency Support 💵💶
+
 
 #Currency Converter in Python 🏦💱
 
@@ -56,3 +58,11 @@ Use the GUI to perform real-time currency conversions.
 Limitations 🚧
     Internet connection is required for fetching exchange rates.
     Exchange rates are dependent on the source website and may not update instantly.
+
+
+
+Currency Converter 💱 | Real-Time Conversion 🌍 | Python Tkinter GUI 🖥️ | Multi-Currency Support 💵💶 | Easy to Use 🚀 | 
+
+See Demo 🖼️
+
+
